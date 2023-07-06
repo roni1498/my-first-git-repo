@@ -1,0 +1,49 @@
+. *{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url("asset/images.jpeg");
+    background-repeat: no-repeat;
+    /* background-position: -400px 0px; */
+    background-size: cover;
+}
+.form{
+    color: white;
+    width: 400px;
+    margin: 100px auto 0px auto;
+    background-color: rgba(0,0,0,0.5);
+    border-radius: 7px;
+    box-shadow: 5px 5px 20px grey;
+    padding: 20px;
+
+}
+.div{
+    margin: 10px;
+    padding: 10px;
+}
+.head{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+.input{
+    width: 300px;
+}
+.language-div{
+    width: 600px;
+}
+.btn{
+    padding: 10px;
+    margin: 10px;
+    margin-right: 20px;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 7px;
+}
+.input-text{
+    padding: 7px;
+    width: 345px;
+}
